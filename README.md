@@ -21,7 +21,5 @@ $ vagrant up
 ### Rails
 
 ```sh
-$ rails s
-# or
-$ rake unicorn:start
+$ rails new app
 ```
