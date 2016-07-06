@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/app":{"guestpath":"/home/vagrant/app","hostpath":"/Users/vv001780/work/forrooter/app","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/vv001780/work/forrooter","disabled":false,"__vagrantfile":true}}}
